@@ -2,7 +2,7 @@
 
 int add_two_numbers(a,b) {
     int sum;
-    sum = a - b;
+    sum = a + b;
     printf("%d", sum);
 }
 
@@ -10,5 +10,5 @@ int add_two_numbers(a,b) {
 int main() {
     add_two_numbers(5,2); // expected result 7
 }
-//just a comment added 
-sample is 
+//just a comment added
+
